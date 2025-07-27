@@ -1,0 +1,32 @@
+.Canvas {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+/* Colors */
+#grey {
+    background-color: grey;
+}
+
+#white {
+    background-color: white;
+    border: 2px solid #ccc; 
+}
+
+#blue {
+    background-color: blue;
+}
+
+#black {
+    background-color: black;
+}
